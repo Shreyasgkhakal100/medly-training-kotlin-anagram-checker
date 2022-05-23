@@ -21,6 +21,7 @@ out/
 *.ipr
 *.log
 .serverless
+gradle.properties
 Thumbs.db
 !/anagram-checker/anagram-checker.gradle
 !/build.gradle
